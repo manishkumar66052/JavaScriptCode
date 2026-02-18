@@ -1,0 +1,23 @@
+h1{
+    color: #1b74e4;
+    font-family: 'Courier New', Courier, monospace;
+}
+.search{
+    background-color: black;
+    color: white;
+     font-family: 'Courier New', Courier, monospace;
+}
+}
+.btn{
+    background-color:aqua;
+     font-family: 'Courier New', Courier, monospace;
+}
+    
+.empty{
+    background-color:rgba(255, 0, 0, 0.726);
+}
+
+.emptybutton{
+    background-color: rgba(255, 0, 0, 0.726);
+
+}
